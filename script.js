@@ -1,14 +1,14 @@
 const quotes = [
-  'Život je jako dobrodružství s nečekaným koncem a kočičími přestávkami.',
-  'Když se něco pokazí, znamená to jen, že se právě děje něco zajímavého.',
-  'Dobrý den začíná u kávy, dobrý den končí u ještě jedné kávy.',
-  'Někdy stačí jenom chvíli sedět tiše a všimnout si, že svět je krásně zvláštní.',
-  'Kdo má rád humor, ten má rád i život — zvlášť když se z něj stane malá historka.',
-  'Mít rád své chvíle znamená umět je i trochu zpříjemnit.',
-  'Občas je nejlepší plán ten, který vás přiměje usmát se.',
-  'Pravda je často jednoduchá, jenom ji musíme umět slyšet mezi vším hlukem.',
-  'Nejhezčí věci nebývají vždycky vidět hned — někdy je potřeba jen trochu trpělivosti.',
-  'Když má někdo dobrou náladu, svět vypadá hned o trochu lépe.'
+  'Život je jako lesní stezka, kde se beruška vždycky najde i po dešti.',
+  'Když se něco pokazí, znamená to jen, že se právě rozjelo nové dobrodružství.',
+  'Dobrý den začíná u sluníčka a končí u ještě jedné beruščí radosti.',
+  'Někdy stačí jen chvíli sedět tiše a všimnout si, jak svět má krásně beruščí barvy.',
+  'Kdo má rád humor, ten má rád i život — zvlášť když se z něj stane malá příhoda.',
+  'Mít rád své chvíle znamená umět je trochu ozdobit drobným úsměvem.',
+  'Občas je nejlepší plán ten, který vás přiměje podívat se na svět s větší radostí.',
+  'Pravda je často jednoduchá, jen ji musíme uslyšet mezi vším šelestem trávy.',
+  'Nejhezčí věci nebývají vidět hned — někdy je potřeba jen trochu trpělivosti a světla.',
+  'Když má někdo dobrou náladu, celý den vypadá hned o trochu beruškověji.'
 ];
 
 const quoteElement = document.getElementById('quote');
