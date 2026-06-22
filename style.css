@@ -77,8 +77,11 @@ body {
 }
 
 .cat-icon {
-  font-size: 4rem;
-  margin-bottom: 8px;
+  display: block;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  margin: 0 auto 8px;
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.1));
 }
 
